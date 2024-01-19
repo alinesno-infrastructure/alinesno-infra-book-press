@@ -8,7 +8,7 @@
 
 > 产品全景图未设计，临时使用的Agent图
 
-<img src="/aip_product_agent2.png" />
+<img src="/aip_product_agent.png" />
 
 产品描述:
 
