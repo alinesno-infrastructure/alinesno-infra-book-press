@@ -47,7 +47,7 @@ module.exports = {
     sidebar: {
       '/book/': [
         {
-          title: '技术发展需求',
+          title: '行业发展需求',
           collapsible: true,
           children: genFirestLearnSidebar(1)
         },
