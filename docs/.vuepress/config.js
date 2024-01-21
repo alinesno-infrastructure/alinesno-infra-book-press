@@ -96,7 +96,7 @@ function genFirestLearnSidebar(type) {
         '/book/',
         '/book/00_写在前面的话.md',
         '/book/01_在AIGC和数字中台的架构升级问题.md',
-        '/book/02_基于AI的产品重新设计和自动化底层重构.md'
+        '/book/02_基于大模型的产品重新设计和自动化底层重构.md'
     ]
   } else if (type == 2) {
     mapArr = [
