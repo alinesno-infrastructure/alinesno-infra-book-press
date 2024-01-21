@@ -96,7 +96,7 @@ function genFirestLearnSidebar(type) {
         '/book/',
         '/book/00_写在前面的话.md',
         '/book/01_在AIGC和数字中台的架构升级问题.md',
-        '/book/02_基于大模型的产品重新设计和自动化设计.md'
+        '/book/02_基于AI的产品重新设计和自动化设计.md'
     ]
   } else if (type == 2) {
     mapArr = [
@@ -116,6 +116,8 @@ function genFirestLearnSidebar(type) {
         '/book/10_运维自动化Agent角色_仿k8sGPT设计.md',
         '/book/11_闭环Agent角色_产品文案多Agent设计.md',
         '/book/12_超级工程师个体执行的落地方案设计.md',
+        '/book/12_1_多Agent交互_仿MetaGPT.md',
+        '/book/12_2_多态Agent角色交互_视觉语音Agent交互.md',
         '/book/13_超级工程师个体实践过程中一些经验.md'
     ]
   } else if (type == 5) {
