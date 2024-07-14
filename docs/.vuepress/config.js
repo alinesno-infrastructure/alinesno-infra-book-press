@@ -96,7 +96,7 @@ function genFirestLearnSidebar(type) {
         '/book/',
         '/book/00_写在前面的话.md',
         '/book/01_在AIGC和数字中台的架构升级问题.md',
-        '/book/02_基于AI的产品重新设计和自动化底层重构.md'
+        '/book/10_智能体产品整体设计方案.md'
     ]
   } else if (type == 2) {
     mapArr = [
@@ -107,8 +107,8 @@ function genFirestLearnSidebar(type) {
     ]
   } else if (type == 3) {
     mapArr = [
-        '/book/07_多角色Agent交互中感知记忆系统设计.md',
-        '/book/08_多角色Agent沙箱和自动执行系统设计.md',
+        '/book/07_平台结合LLM自动驾驶设计方案.md',
+        '/book/08_运维服务结合LLM产品升级设计.md',
         '/book/09_多角色Agent执行过程中的演化系统设计.md'
     ]
   } else if (type == 4) {
@@ -117,7 +117,6 @@ function genFirestLearnSidebar(type) {
         '/book/11_闭环Agent角色_产品文案多Agent设计.md',
         '/book/12_超级工程师个体执行的落地方案设计.md',
         '/book/12_1_多Agent交互_仿MetaGPT.md',
-        '/book/12_2_多态Agent角色交互_视觉语音Agent交互.md',
         '/book/13_超级工程师个体实践过程中一些经验.md'
     ]
   } else if (type == 5) {
