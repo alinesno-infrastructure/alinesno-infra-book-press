@@ -102,11 +102,11 @@ function genFirestLearnSidebar(type) {
     mapArr = [
         '/book/03_超化研究上的全日志采集架构设计.md',
         '/book/04_使用AIGC提升平台能力架构设计经验.md',
-        '/book/05_平台与AIGC交互的组件设计方案.md',
-        '/book/06_平台与AIGC交互的多Agent交互方案.md'
     ]
   } else if (type == 3) {
     mapArr = [
+        '/book/05_平台与AIGC交互的组件设计方案.md',
+        '/book/06_平台与AIGC交互的多Agent交互方案.md',
         '/book/07_平台结合LLM自动驾驶设计方案.md',
         '/book/08_运维服务结合LLM产品升级设计.md',
         '/book/09_多角色Agent执行过程中的演化系统设计.md'
