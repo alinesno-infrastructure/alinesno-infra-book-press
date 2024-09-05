@@ -113,6 +113,7 @@ function genFirestLearnSidebar(type) {
     ]
   } else if (type == 4) {
     mapArr = [
+        '/book/18_智能体与业务场景深度结合设计方案.md',
         '/book/10_运维自动化Agent角色_仿k8sGPT设计.md',
         '/book/11_闭环Agent角色_产品文案多Agent设计.md',
         '/book/12_超级工程师个体执行的落地方案设计.md',
