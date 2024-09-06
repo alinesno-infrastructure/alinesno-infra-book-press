@@ -109,7 +109,8 @@ function genFirestLearnSidebar(type) {
         '/book/06_平台与AIGC交互的多Agent交互方案.md',
         '/book/07_平台结合LLM自动驾驶设计方案.md',
         '/book/08_运维服务结合LLM产品升级设计.md',
-        '/book/09_多角色Agent执行过程中的演化系统设计.md'
+        '/book/09_多角色Agent执行过程中的演化系统设计.md',
+        '/book/19_智能体开发流程规范及示例.md'
     ]
   } else if (type == 4) {
     mapArr = [
