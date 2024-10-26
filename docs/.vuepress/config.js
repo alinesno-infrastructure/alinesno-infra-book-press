@@ -23,9 +23,9 @@ module.exports = {
     logo: '/logo.png', // 注意图片放在 public 文件夹下
     lastUpdated: 'Last Updated',
     sidebarDepth: 2,
-    repo: 'https://github.com/alinesno-infrastructure/alinesno-infra-book-press',
+    repo: 'https://gitee.com/alinesno-infrastructure/alinesno-infra-book-press',
     docsDir: 'docs',
-    repoLabel: 'Github',
+    repoLabel: 'Gitee',
     docsBranch: 'main',
     editLinks: true,
     editLinkText: '帮助我们改善此页面',
