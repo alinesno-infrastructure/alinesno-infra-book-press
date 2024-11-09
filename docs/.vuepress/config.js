@@ -116,9 +116,9 @@ function genFirestLearnSidebar(type) {
     mapArr = [
         '/book/18_智能体与业务场景深度结合设计方案.md',
         '/book/10_运维自动化Agent角色_仿k8sGPT设计.md',
-        '/book/11_闭环Agent角色_产品文案多Agent设计.md',
-        '/book/12_超级工程师个体执行的落地方案设计.md',
-        '/book/12_1_多Agent交互_仿MetaGPT.md',
+        '/book/11_智能体Agent与数字资产整合方案设计.md',
+        '/book/12_复杂多Agent交互结合场景示例.md',
+        '/book/12_大文本场景多Agent编排示例.md',
         '/book/13_超级工程师个体实践过程中一些经验.md'
     ]
   } else if (type == 5) {
