@@ -123,7 +123,6 @@ function genFirestLearnSidebar(type) {
     ]
   } else if (type == 5) {
     mapArr = [
-        '/book/14_服务批量生产自动化的设计思路.md',
         '/book/15_团队超自动化集成的一些思路与经验.md',
         '/book/16_阶段总结.md'
     ]
