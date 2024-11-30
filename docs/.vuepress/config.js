@@ -1,6 +1,6 @@
 module.exports = {
   lang: 'zh-CN',
-  title: '超级个体:多Agent协作与自动化产品实践',
+  title: 'Multi-Agent协作与自动化结合实践',
   description: '能够灵活满足企业数字化建设中各种场景的需要，更高效、专注的沉淀业务和数据能力，进而形成企业的业务和数据中台。通过能力的灵活组合，快速的应对当前快节奏的市场需求，助力企业数字化转型的成功。',
   base: '/',
   head: [
@@ -36,7 +36,7 @@ module.exports = {
         link: '/'
       },
       {
-        text: '书籍目录',
+        text: '手册目录',
         link: '/book/'
       },
       {
@@ -118,12 +118,11 @@ function genFirestLearnSidebar(type) {
         '/book/10_运维自动化Agent角色_仿k8sGPT设计.md',
         '/book/11_智能体Agent与数字资产整合方案设计.md',
         '/book/12_复杂多Agent交互结合场景示例.md',
-        '/book/12_大文本场景多Agent编排示例.md',
-        '/book/13_超级工程师个体实践过程中一些经验.md'
+        '/book/12_多Agent编写研发周日报场景设计.md',
+        '/book/13_Agent审核文档场景的设计.md',
     ]
   } else if (type == 5) {
     mapArr = [
-        '/book/15_团队超自动化集成的一些思路与经验.md',
         '/book/16_阶段总结.md'
     ]
   } else if (type == 8) {
