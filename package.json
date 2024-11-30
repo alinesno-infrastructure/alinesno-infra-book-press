@@ -1,7 +1,7 @@
 {
   "name": "alinesno-cloud-book-press",
   "version": "1.0.0",
-  "description": "超级个体：多Agent协作与自动化产品实践",
+  "description": "超级个体：多Agent协作与自动化结合实践",
   "main": "index.js",
   "repository": "https://github.com/alinesno-cloud/alinesno-cloud-book-press",
   "author": "LuoXiaoDong <landonniao@163.com>",
